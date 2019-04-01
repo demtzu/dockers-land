@@ -14,7 +14,7 @@
 .boxed-container {
     max-width: 1440px;
     margin: 0 auto;
-    @include shadow;
+    // @include shadow;
 }
 
 main {
@@ -27,23 +27,23 @@ main {
     padding-bottom: 48px;
 }
 
-@include media( '>medium' ) {
+// @include media( '>medium' ) {
 
-    .section-inner {
-        padding-top: 80px;
-        padding-bottom: 80px;
-    }
-}
+//     .section-inner {
+//         padding-top: 80px;
+//         padding-bottom: 80px;
+//     }
+// }
 
 /* Align the page content vertically */
-@include media( '>large' ) {
+// @include media( '>large' ) {
 
-    main {
-        display: flex;
-        align-items: center;
-    }
+//     main {
+//         display: flex;
+//         align-items: center;
+//     }
 
-    .hero {
-        width: 100%;
-    }
-}
+//     .hero {
+//         width: 100%;
+//     }
+// }
