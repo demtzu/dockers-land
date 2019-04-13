@@ -17,7 +17,7 @@ title: Dockers | Intermittents de la culture
 email: hello@dockers.io
 description: >- # this means to ignore newlines until "baseurl:"
   Outil de gestion administrative pour intermittents du secteur culturel. Faites valoir vos droits sociaux.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dockers.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  demtzu
 
