@@ -1,3 +1,29 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+######
+# DOCKERS CALCULATOR SPECIFICS
+######
+
+# dependencies
+/convertisseur_source/node_modules
+/convertisseur_source/.pnp
+.pnp.js
+
+# testing
+/convertisseur_source/coverage
+
+# production
+/convertisseur_source/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
