@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Install <a href="https://classic.yarnpkg.com/en/docs/install">Yarn</a> on your dev machine.
+
+In the project's /convertisseur_source/ directory, install all dependencies (this'll take a while):
+
+### `yarn install`
+
+In the project's /convertisseur_source/, you can run:
 
 ### `yarn start`
 
